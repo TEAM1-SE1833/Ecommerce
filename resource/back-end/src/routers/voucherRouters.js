@@ -10,3 +10,4 @@ router.put('/:id', authMiddleware(['Manager']),voucherController.updateVoucher);
 router.delete('/:id', authMiddleware(['Manager']),voucherController.deleteVoucher);
 
 module.exports = router;
+
