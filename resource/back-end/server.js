@@ -27,7 +27,7 @@ app.use(morgan('dev')); // Ghi lại các log HTTP
 ConnectDB();
 
 // Sử dụng các router cho các API endpoint
-app.use('/api', routes);  // Tất cả các route sẽ bắt đầu bằng /api
+app.use('/', routes);  // Tất cả các route sẽ bắt đầu bằng /api
 
 // Khởi động server
 const port = process.env.PORT || 9999;

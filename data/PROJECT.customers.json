@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "67c6613a0f7cea2b67643832"
+  },
+  "CustomerName": "Alice",
+  "Address": "456 Elm Street",
+  "PhoneNumber": "098-765-4321",
+  "UserID": {
+    "$oid": "67c6613a0f7cea2b67643830"
+  },
+  "__v": 0
+}]

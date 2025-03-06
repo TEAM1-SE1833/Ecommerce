@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "67c5f772250978f10e1490e4"
+  },
+  "RoleName": "Manager"
+},
+{
+  "_id": {
+    "$oid": "67c5f772250978f10e1490e5"
+  },
+  "RoleName": "Shop"
+},
+{
+  "_id": {
+    "$oid": "67c5f772250978f10e1490e6"
+  },
+  "RoleName": "Customer"
+}]

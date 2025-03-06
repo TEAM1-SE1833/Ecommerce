@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "67c660c50f7cea2b67643826"
+  },
+  "ShopName": "ABC Store",
+  "Address": "123 Main Street",
+  "Phone": "123-456-7890",
+  "UserID": {
+    "$oid": "67c660c50f7cea2b67643824"
+  },
+  "__v": 0
+}]
